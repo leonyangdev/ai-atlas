@@ -1,27 +1,36 @@
 ---
 layout: home
 hero:
-  name: "NLP 体系教程"
-  text: "从零到一，全面掌握自然语言处理"
-  tagline: 从基础概念到 Transformer 架构，从传统方法到大语言模型
+  name: "AI 知识体系"
+  text: "从机器学习到大语言模型"
+  tagline: 系统构建人工智能知识体系 · 从数学基础到前沿大模型 · 理论深度 + 代码实战
   actions:
     - theme: brand
-      text: 开始学习
-      link: /nlp-introduction/what-is-nlp
+      text: 🚀 开始学习
+      link: /ai-overview/
+    - theme: alt
+      text: 📖 机器学习
+      link: /machine-learning/
     - theme: alt
       text: GitHub
       link: https://github.com/leonyangdev/nlp-tutorial
 features:
-  - icon: 📚
-    title: 体系完整
-    details: 从 NLP 历史演进到现代大语言模型，25+ 章节全面覆盖
-  - icon: 🔬
-    title: 深入原理
-    details: 每个算法都配有详细的数学推导和直觉解释
-  - icon: 💻
-    title: 代码实战
-    details: 基于 PyTorch 和 HuggingFace 的丰富代码示例
-  - icon: 🎯
-    title: 循序渐进
-    details: 从最基础的文本表示到企业级模型部署
+  - icon: 🧮
+    title: 数学基础扎实
+    details: 线性代数、微积分、概率统计，夯实 AI 的数学地基，每个公式都有直觉解释
+  - icon: 🤖
+    title: 机器学习全覆盖
+    details: 线性回归到 XGBoost，经典监督/无监督算法，含完整数学推导与代码实现
+  - icon: 🧠
+    title: 深度学习原理
+    details: 神经网络、激活函数、优化器、RNN/LSTM/GRU，深入理解每一层的数学本质
+  - icon: ⚡
+    title: Transformer 架构
+    details: Attention 机制、Transformer、BERT、GPT，从原理到工程化落地
+  - icon: 🌐
+    title: 大语言模型时代
+    details: LLM、提示工程、RLHF/DPO 对齐技术，跟上 AI 最前沿发展
+  - icon: 🛠️
+    title: 工程实践导向
+    details: HuggingFace 生态、模型微调、生产部署，理论联系实际
 ---
