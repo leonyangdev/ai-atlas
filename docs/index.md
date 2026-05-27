@@ -13,7 +13,7 @@ hero:
       link: /machine-learning/
     - theme: alt
       text: GitHub
-      link: https://github.com/leonyangdev/nlp-tutorial
+      link: https://github.com/leonyangdev/ai-atlas
 features:
   - icon: 🧮
     title: 数学基础扎实

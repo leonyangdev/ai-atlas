@@ -4,7 +4,7 @@ export default defineConfig({
   title: 'AI 知识体系',
   description: '从机器学习到大语言模型，系统化的人工智能学习笔记',
   lang: 'zh-CN',
-  base: '/nlp-tutorial/',
+  base: '/ai-atlas/',
   lastUpdated: true,
   cleanUrls: true,
 
@@ -354,7 +354,7 @@ export default defineConfig({
     },
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/leonyangdev/nlp-tutorial' }
+      { icon: 'github', link: 'https://github.com/leonyangdev/ai-atlas' }
     ],
 
     footer: {
